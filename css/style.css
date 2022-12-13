@@ -599,7 +599,7 @@ a:hover {
   align-items: center;
   height: 100vh;
   margin: 80px 0;
-  border: solid yellow 1px;
+  /* border: solid yellow 1px; */
 }
 
 @media screen and (min-width: 280px) and (max-width: 780px) {
@@ -620,7 +620,7 @@ a:hover {
   margin-top: 40px;
   gap: 5px;
   /* padding-bottom: 7px; */
-  border: solid 1px peru;
+  /* border: solid 1px peru; */
 }
 
 .card-item1,
